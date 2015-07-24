@@ -1,3 +1,5 @@
+The presentation notes, here: http://spencer.gibb.us/preso/spring-cloud-oscon-2015/#/
+
 # Spring Boot
 
 start_spring_io.sh fortunes actuator,web
